@@ -8,7 +8,7 @@ body {
   background-color: rgba(247, 226, 95, 0.698);
 }
 body {
-margin: 0px;
+margin-top: 0px;
 padding: 0px;
 }
 
@@ -28,6 +28,12 @@ display: inline-block;
 padding: 10px;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
   .bluecolor {
     color:dodgerblue;
   }
